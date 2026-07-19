@@ -25,3 +25,7 @@
 [submodule "microservices/authorization-server"]
 	path = microservices/authorization-server
 	url = git@github.com:michel-klein/algashop-authorization-server.git
+[submodule "frontend-demo"]
+	path = frontend-demo
+	url = git@github.com:michel-klein/algashop-client-frontend-demo.git
+	branch = feat/algashop-local
