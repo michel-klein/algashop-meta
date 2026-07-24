@@ -29,3 +29,7 @@
 	path = frontend-demo
 	url = git@github.com:michel-klein/algashop-client-frontend-demo.git
 	branch = feat/algashop-local
+[submodule "microservices/service-registry"]
+	path = microservices/service-registry
+	url = git@github.com:michel-klein/algashop-service-registry.git
+	branch = main
